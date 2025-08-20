@@ -2,13 +2,10 @@
 
 <br><br> <!-- Espaço entre seções -->
 
-<div align="center">
+
 **` Desenvolvedor FullStack `** **` CRM´s `** **` ERP´s `**
-</div>
 
-
-
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
   <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
@@ -23,7 +20,7 @@
 
 <br><br> <!-- Espaço entre seções -->
 
-<p align="center">
+<p align="left">
   <img 
     align="left" 
     alt="GitHub Stats" 
