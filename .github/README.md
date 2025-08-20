@@ -38,7 +38,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Gabrielchr1&border_radius=10&locale=pt_BR&short_numbers=true&border=410A5E&currStreakNum=9EFF00&ring=9EFF00&sideNums=9EFF00&excludeDaysLabel=9EFF00&dates=EBEBEB&background=50%2C2C0043%2C112700&fire=FFFFFF&sideLabels=EBEBEB&currStreakLabel=FFB800" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=aura&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
