@@ -2,7 +2,7 @@
 
 <br><br> <!-- Espaço entre seções -->
 
-                                **` Desenvolvedor FullStack `** **` CRM´s `** **` ERP´s `**
+  **` Desenvolvedor FullStack `** **` CRM´s `** **` ERP´s `**
 
 <br><br> <!-- Espaço entre seções -->
 
