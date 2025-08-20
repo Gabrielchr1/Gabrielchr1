@@ -13,16 +13,22 @@
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
 </div>
 
-<div align="center">
-  <img 
-    alt="GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api?username=Gabrielchr1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    alt="Top Langs" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielchr1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=Gabrielchr1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+        height="180"
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielchr1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+        height="180"
+      />
+    </td>
+  </tr>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrielchr1/Gabrielchr1/output/pacman-contribution-graph-dark.svg">
