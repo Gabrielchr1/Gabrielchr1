@@ -15,18 +15,14 @@
 
 <br><br> <!-- Espaço entre seções -->
 
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 20px;" 
     src="https://github-readme-stats.vercel.app/api?username=Gabrielchr1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="180"
   />
   <img 
-    align="left" 
-    alt="Top Langs" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielchr1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielchr1&theme=tokyonight&custom_title=Tecnologias&langs_count=9" 
+    height="180"
   />
-</p>
+</div>
+
