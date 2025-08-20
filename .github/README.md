@@ -1,6 +1,10 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
+<br><br> <!-- Espaço entre seções -->
+
 **` Desenvolvedor FullStack `** **` CRM´s `** **` ERP´s `**
+
+<br><br> <!-- Espaço entre seções -->
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
