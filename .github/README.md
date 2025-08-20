@@ -27,7 +27,7 @@
     align="left" 
     alt="Top Langs" 
     height="180" 
-    style="margin-top: 20px;" 
+    style="margin-top: 30px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielchr1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
