@@ -13,6 +13,8 @@
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
 </div>
 
+<br><br> <!-- Espaço entre seções -->
+
 <p align="center">
   <img 
     align="left" 
@@ -28,4 +30,3 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielchr1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-
