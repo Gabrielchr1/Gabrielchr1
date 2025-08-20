@@ -1,5 +1,7 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
+**` Desenvolvedor FullStack `** **` CRM´s `** **` ERP´s `**
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
   <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo" />
@@ -27,7 +29,7 @@
     align="left" 
     alt="Top Langs" 
     height="180" 
-    style="margin-top: 80px;" 
+    style="margin-top: 30px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielchr1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
